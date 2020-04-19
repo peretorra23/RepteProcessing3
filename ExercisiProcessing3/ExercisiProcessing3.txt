@@ -1,0 +1,9 @@
+Exercisi 1:
+
+Hi ha un metode en el cual comprova amb un bucle els costats i entenc que
+fa que no surti de la pantalla el objecte, li dona una velocitat i una 
+posicio random que el que fa es que vaigui variant tota la estona el seu 
+moviment.
+
+Exercsi 3: Bàsicament poso en modo random la velocitat i la acceleració,
+i escalo la acceleració a un numero random escollit.
